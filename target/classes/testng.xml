@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="BrowserStack Machine Coding">
+
+	<listeners>
+		<listener class-name="ExtentReportListener.ExtentReporterNG" />
+	</listeners>
+
+
+	<test name="Myntra Demo Test Cases">
+		<classes>
+			<class name="com.myntra.qa.testcase.MyntraTest"></class>
+		</classes>
+	</test>
+</suite>

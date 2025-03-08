@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-13T22:47:52 IST" name="Default suite" finished-at="2024-03-13T22:48:21 IST" duration-ms="28996">
+    <groups>
+    </groups>
+    <test started-at="2024-03-13T22:47:52 IST" name="Default test" finished-at="2024-03-13T22:48:21 IST" duration-ms="28996">
+      <class name="com.myntra.qa.testcase.MyntraTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.myntra.qa.testcase.MyntraTest@5e0e82ae]" started-at="2024-03-13T22:47:52 IST" name="setup" finished-at="2024-03-13T22:47:57 IST" duration-ms="5147" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testcase()[pri:0, instance:com.myntra.qa.testcase.MyntraTest@5e0e82ae]" started-at="2024-03-13T22:47:57 IST" name="testcase" finished-at="2024-03-13T22:48:21 IST" duration-ms="23492" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.myntra.qa.testcase.MyntraTest@5e0e82ae]" started-at="2024-03-13T22:48:21 IST" name="teardown" finished-at="2024-03-13T22:48:21 IST" duration-ms="297" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.myntra.qa.testcase.MyntraTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
